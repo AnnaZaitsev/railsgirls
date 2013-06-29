@@ -15,6 +15,7 @@ end
 
 
 gem 'carrierwave'
+gem 'mini_magick'
 
 
 # Gems used only for assets and not required
